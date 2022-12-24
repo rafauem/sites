@@ -7,6 +7,7 @@
 
 - Drawing: [Autodraw](https://www.autodraw.com/)
 - [Photo restoration: GFP-GAN](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
+- Chat: [Chat Openai](https://chat.openai.com/a)
 
 # Miscellaneous
 
