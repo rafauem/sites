@@ -9,11 +9,24 @@
 - [Photo restoration: GFP-GAN](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
 - Chat: [Chat Openai](https://chat.openai.com/a)
 
+
+# Editor
+
+## Text
+
+-[Language Tool](https://languagetool.org/) :heavy_dollar_sign:
+
+## Audio
+
+## Image
+
+## Video
+
 # Miscellaneous
 
 ## Tools
 
-- [lachief.io](https://lachief.io/)
+- [lachief.io](https://lachief.io/) :free:
 - [tinywow.com](https://tinywow.com/)
 - [Temporary phone number for Receive SMS online](https://online-sms.org/)
 - [Resume](https://www.kickresume.com/en/)
