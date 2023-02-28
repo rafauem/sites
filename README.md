@@ -13,8 +13,8 @@
 
 ## Tools
 
-- [achief.io](https://lachief.io/)
-
+- [lachief.io](https://lachief.io/)
+- [tinywow.com](https://tinywow.com/)
 - [Temporary phone number for Receive SMS online](https://online-sms.org/)
 - [Resume](https://www.kickresume.com/en/)
 - [Link checker: psafe](https://www.psafe.com/dfndr-lab/)
