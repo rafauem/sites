@@ -11,11 +11,9 @@
 
 # Miscellaneous
 
-## Ferramentas
+## Tools
 
-Img2PDF, Summarizer and Youtube
-
-- [https://anthiago.com/](https://anthiago.com/)
+- [achief.io](https://lachief.io/)
 
 - [Temporary phone number for Receive SMS online](https://online-sms.org/)
 - [Resume](https://www.kickresume.com/en/)
