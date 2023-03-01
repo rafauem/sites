@@ -14,7 +14,7 @@
 
 ## Text
 
--[Language Tool](https://languagetool.org/) :heavy_dollar_sign:
+- [Language Tool](https://languagetool.org/) :heavy_dollar_sign:
 
 ## Audio
 
@@ -42,6 +42,9 @@
 ### Replace it for
 
 - [Zoho](https://www.zoho.com/)
+- [Xtensio](https://xtensio.com/)
+- [Genially](https://genial.ly/)
+- [Canva](https://www.canva.com/)
 
 ## Excel
 
