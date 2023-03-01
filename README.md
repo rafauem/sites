@@ -32,3 +32,17 @@
 - [Resume](https://www.kickresume.com/en/)
 - [Link checker: psafe](https://www.psafe.com/dfndr-lab/)
 - [Link checker: virustotal](https://www.virustotal.com/gui/home/url)
+
+# MS Office
+
+## Word
+
+## Power Point
+
+### Replace it for
+
+- [Zoho](https://www.zoho.com/)
+
+## Excel
+
+- [Spreadsheets](https://www.planillaexcel.com/plantillas)
