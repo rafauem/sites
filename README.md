@@ -19,20 +19,34 @@
 ## Audio
 
 ## Image
-
-- [Color, Anime, Replace](https://www.myheritage.com/) Need login
-- 
+ - [Picwish](https://picwish.com/)
+ - [Color, Anime, Replace](https://www.myheritage.com/) Need login
+ - [Colorize Pictures](https://palette.fm/)
+ - 
 ## Video
 
 ### Stunning Videos
 
-- [Motion Array](https://motionarray.com/)
-- [Animoto](https://animoto.com/)
-- [Flex Clip](https://www.flexclip.com/)
-- [Clip Champ](https://clipchamp.com/)
-- [Animaker](https://www.animaker.co/)
+ - [Motion Array](https://motionarray.com/)
+ - [Animoto](https://animoto.com/)
+ - [Flex Clip](https://www.flexclip.com/)
+ - [Clip Champ](https://clipchamp.com/)
+  [Animaker](https://www.animaker.co/)
 
+# Creator
 
+## Text
+
+## Image
+
+### Stable Diffusion
+
+ - [Stable Diffusion Online](https://stablediffusionweb.com/)
+ - [Huggingface](https://huggingface.co/spaces/stabilityai/stable-diffusion)
+ - [Prodia](https://app.prodia.com/)
+
+ - []()
+## Video
 
 
 ## Tools
@@ -57,6 +71,16 @@
 - [Genially](https://genial.ly/)
 - [Canva](https://www.canva.com/)
 
+### AI Creator
+
+ - [Tome](https://beta.tome.app/)
+ - [Slides AI](https://www.slidesai.io/)
+ - [sendsteps](https://web.sendsteps.com/)
+
+https://designs.ai/
+https://penji.co/ai-presentation/
+
+
 ## Excel
 
 - [Spreadsheets](https://www.planillaexcel.com/plantillas)
@@ -70,22 +94,11 @@
  - [Website Generator](https://www.mixo.io/)
  - [Imagens, Videos, Music, Icons ... ](https://allthefreestock.com/)
  - [Call Companies and Fix Customer Service Issues](https://gethuman.com/):x:
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
- - []()
+ - [PimEyes: Face Recognition](https://pimeyes.com/) 
+ - [Rewind: The Search Engine For Your Life](https://www.rewind.ai/) 30 day
+ - [Voice Mod](https://www.voicemod.net/) For Windows
+ - [Connection To Any Professional](https://rocketreach.co/)
+
 
 
 :exclamation:
