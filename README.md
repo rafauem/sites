@@ -20,7 +20,18 @@
 
 ## Image
 
+- [Color, Anime, Replace](https://www.myheritage.com/) Need login
+- 
 ## Video
+
+### Stunning Videos
+
+- [Motion Array](https://motionarray.com/)
+- [Animoto](https://animoto.com/)
+- [Flex Clip](https://www.flexclip.com/)
+- [Clip Champ](https://clipchamp.com/)
+- [Animaker](https://www.animaker.co/)
+
 
 
 
@@ -58,3 +69,25 @@
  - [Templates](https://pt.venngage.com/)
  - [Website Generator](https://www.mixo.io/)
  - [Imagens, Videos, Music, Icons ... ](https://allthefreestock.com/)
+ - [Call Companies and Fix Customer Service Issues](https://gethuman.com/):x:
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+ - []()
+
+
+:exclamation:
+:question:
+:x:
