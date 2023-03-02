@@ -22,7 +22,7 @@
 
 ## Video
 
-# Miscellaneous
+
 
 ## Tools
 
@@ -49,3 +49,12 @@
 ## Excel
 
 - [Spreadsheets](https://www.planillaexcel.com/plantillas)
+
+# Miscellaneous
+
+ - [Alternative To](https://alternativeto.net/)
+ - [YouTube video dubbing](https://ezdubs.ai/)
+ - [Magazine Template](https://www.flipsnack.com/)
+ - [Templates](https://pt.venngage.com/)
+ - [Website Generator](https://www.mixo.io/)
+ - [Imagens, Videos, Music, Icons ... ](https://allthefreestock.com/)
