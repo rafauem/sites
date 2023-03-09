@@ -98,6 +98,8 @@ https://penji.co/ai-presentation/
  - [Rewind: The Search Engine For Your Life](https://www.rewind.ai/) 30 day
  - [Voice Mod](https://www.voicemod.net/) For Windows
  - [Connection To Any Professional](https://rocketreach.co/)
+ - [Kadama](https://kadama.com/)
+ - [Design](https://venngage.com/)
 
 
 
