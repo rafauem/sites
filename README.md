@@ -7,7 +7,9 @@
 
 - Drawing: [Autodraw](https://www.autodraw.com/)
 - [Photo restoration: GFP-GAN](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
-- Chat: [Chat Openai](https://chat.openai.com/a)
+- [FireFlies - Meeting Notes](https://fireflies.ai/)
+- [Murf - Voice Generation](https://murf.ai/)
+- [DoNotPay - Lawyer ](https://donotpay.com/)
 
 # PDF
 
@@ -15,7 +17,8 @@
  
  # Chrome Extensions
  
- -[Smart CTRL + F](https://chrome.google.com/webstore/detail/locus-%E2%80%94-smart-ctrl-%2B-f/eppedlbobmdflmhleafebmahnbphgipb?hl=pt-br)
+ - [Smart CTRL + F](https://chrome.google.com/webstore/detail/locus-%E2%80%94-smart-ctrl-%2B-f/eppedlbobmdflmhleafebmahnbphgipb?hl=pt-br)
+ - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj)
  
 # Editor
 
@@ -26,6 +29,9 @@
 ## Text
 
 - [Language Tool](https://languagetool.org/) :heavy_dollar_sign:
+- [Chat Openai](https://chat.openai.com/)
+- [Copy - Chat](https://www.copy.ai/)
+- [Jasper - Write](https://www.jasper.ai/)
 
 ## Audio
 
@@ -51,6 +57,9 @@
 ## Text
 
 ## Image
+
+- [Dall-E - Images](https://openai.com/product/dall-e-2)
+- [BlueWillow](https://www.bluewillow.ai/)
 
 ### Stable Diffusion
 
@@ -115,7 +124,15 @@ https://penji.co/ai-presentation/
  - [Design](https://venngage.com/)
 
 
+# Hack
+
+ - [FakeName](https://www.fakenamegenerator.com/)
+ - [Temp Mail](https://temp-mail.org/)
+ - [BugMeNot](https://bugmenot.com/)
 
 :exclamation:
 :question:
 :x:
+
+
+```
