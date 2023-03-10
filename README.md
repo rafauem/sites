@@ -2,7 +2,9 @@
 
 <div align="center"> <strong>:computer: Useful sites you never remember when you need it :computer: </strong> </div>
 
+# Learning
 
+ - [Tutor Ai](https://www.tutorai.me/)
 # Artificial Intelligence
 
 - Drawing: [Autodraw](https://www.autodraw.com/)
@@ -19,6 +21,7 @@
  
  - [Smart CTRL + F](https://chrome.google.com/webstore/detail/locus-%E2%80%94-smart-ctrl-%2B-f/eppedlbobmdflmhleafebmahnbphgipb?hl=pt-br)
  - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+ - [AIPRM - ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
  
 # Editor
 
@@ -110,6 +113,8 @@ https://penji.co/ai-presentation/
 # Miscellaneous
 
  - [Alternative To](https://alternativeto.net/)
+ - -[Galileo AI](https://www.usegalileo.ai/)
+ - [SimilarWeb](https://www.similarweb.com/)
  - [YouTube video dubbing](https://ezdubs.ai/)
  - [Magazine Template](https://www.flipsnack.com/)
  - [Templates](https://pt.venngage.com/)
@@ -129,6 +134,7 @@ https://penji.co/ai-presentation/
  - [FakeName](https://www.fakenamegenerator.com/)
  - [Temp Mail](https://temp-mail.org/)
  - [BugMeNot](https://bugmenot.com/)
+ - [Face Check](https://facecheck.id/)
 
 :exclamation:
 :question:
