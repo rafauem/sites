@@ -9,8 +9,19 @@
 - [Photo restoration: GFP-GAN](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
 - Chat: [Chat Openai](https://chat.openai.com/a)
 
+# PDF
 
+ - [Chat Any PDF](https://www.chatpdf.com/)
+ 
+ # Chrome Extensions
+ 
+ -[Smart CTRL + F](https://chrome.google.com/webstore/detail/locus-%E2%80%94-smart-ctrl-%2B-f/eppedlbobmdflmhleafebmahnbphgipb?hl=pt-br)
+ 
 # Editor
+
+## Designer
+
+ -[MS Disigner](https://designer.microsoft.com/)
 
 ## Text
 
@@ -24,6 +35,8 @@
  - [Colorize Pictures](https://palette.fm/)
  - 
 ## Video
+
+ -[AutoCut(https://www.autocut.fr/en/)
 
 ### Stunning Videos
 
@@ -45,7 +58,7 @@
  - [Huggingface](https://huggingface.co/spaces/stabilityai/stable-diffusion)
  - [Prodia](https://app.prodia.com/)
 
- - []()
+
 ## Video
 
 
