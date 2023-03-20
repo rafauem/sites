@@ -5,6 +5,7 @@
 # Learning
 
  - [Tutor Ai](https://www.tutorai.me/)
+ 
 # Artificial Intelligence
 
 - Drawing: [Autodraw](https://www.autodraw.com/)
@@ -16,6 +17,8 @@
 # PDF
 
  - [Chat Any PDF](https://www.chatpdf.com/)
+ - [I Love PDF](https://www.ilovepdf.com/)
+ - [Tiny Wow](https://tinywow.com/)
  
  # Chrome Extensions
  
@@ -27,7 +30,9 @@
 
 ## Designer
 
- -[MS Disigner](https://designer.microsoft.com/)
+ - [MS Disigner](https://designer.microsoft.com/)
+ - [Designs](https://designs.ai/)
+ - [Penji](https://penji.co/ai-presentation/)
 
 ## Text
 
@@ -45,7 +50,7 @@
  - 
 ## Video
 
- -[AutoCut(https://www.autocut.fr/en/)
+ - [AutoCut](https://www.autocut.fr/en/)
 
 ### Stunning Videos
 
@@ -102,9 +107,6 @@
  - [Slides AI](https://www.slidesai.io/)
  - [sendsteps](https://web.sendsteps.com/)
 
-https://designs.ai/
-https://penji.co/ai-presentation/
-
 
 ## Excel
 
@@ -113,7 +115,7 @@ https://penji.co/ai-presentation/
 # Miscellaneous
 
  - [Alternative To](https://alternativeto.net/)
- - -[Galileo AI](https://www.usegalileo.ai/)
+ - [Galileo AI](https://www.usegalileo.ai/)
  - [SimilarWeb](https://www.similarweb.com/)
  - [YouTube video dubbing](https://ezdubs.ai/)
  - [Magazine Template](https://www.flipsnack.com/)
@@ -130,8 +132,12 @@ https://penji.co/ai-presentation/
 
 # Bank of
 
+ - [allthefreestock](https://allthefreestock.com/)
+ 
+# Social Media
 
- -[allthefreestock](https://allthefreestock.com/)
+ - [Trakto](https://www.trakto.io/) by: XandinhoLove
+ - [ContentDrips](https://contentdrips.com/) by: XandinhoLove
  
 # Hack
 
