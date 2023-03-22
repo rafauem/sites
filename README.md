@@ -92,15 +92,17 @@
 
 ## Text
 
-- [Language Tool](https://languagetool.org/) :heavy_dollar_sign:
-- [Chat GPT](https://chat.openai.com/)
-- [Beta OpenAI](https://platform.openai.com/playground)
-- [Copy - Chat](https://www.copy.ai/)
-- [Jasper - Write](https://www.jasper.ai/)
-- [Consh](https://www.getconch.ai/)
-- [ChatSonic](https://writesonic.com/chat)
-- [GPTBoss](https://www.gptboss.com/)
-- [Plagium](https://www.plagium.com/)
+ - [Language Tool](https://languagetool.org/) :heavy_dollar_sign:
+ - [Chat GPT](https://chat.openai.com/)
+ - [Beta OpenAI](https://platform.openai.com/playground)
+ - [Copy - Chat](https://www.copy.ai/)
+ - [Jasper - Write](https://www.jasper.ai/)
+ - [Consh](https://www.getconch.ai/)
+ - [ChatSonic](https://writesonic.com/chat)
+ - [GPTBoss](https://www.gptboss.com/)
+ - [Poe CHat](https://poe.com/)
+ - [NatDev](https://www.nat.dev/)
+ - [Plagium](https://www.plagium.com/)
 
 ## Image
 
@@ -136,6 +138,7 @@
 - [Resume](https://www.kickresume.com/en/)
 - [Link checker: psafe](https://www.psafe.com/dfndr-lab/)
 - [Link checker: virustotal](https://www.virustotal.com/gui/home/url)
+- Edit, convert, create with [123Apps](https://123apps.com/)
 
 # MS Office
 
@@ -195,6 +198,7 @@
  - [ContentDrips](https://contentdrips.com/) by: XandinhoLove
  - [PFP Maker](https://pfpmaker.com/)
  - [Jitter](https://jitter.video/)
+   - For remove watermark [123Apps](https://123apps.com/)
  - [PhotoAI](https://photoai.com/)
  
 # Hack
@@ -209,9 +213,19 @@
 :question:
 :x:
 
+ - Smart Scheduling for Busy Teams [Reclaim](https://reclaim.ai/ )
  - Data and graph [UseChannel](https://www.usechannel.com/)
  - Dubbing [PaperCup](https://www.papercup.com/)
  - [Create pro quality product photography with AI](https://www.booth.ai/)
  - Generate ads[Clickable](https://www.clickable.so/)
  - Rational decisions [Rationale](https://rationale.jina.ai/)
  - [The ultimate manuals library](https://www.manualslib.com/)
+ - [Supernormal helps you create amazing meeting notes without lifting a finger](https://supernormal.com/)
+ - Tools for music [Lalal](https://www.lalal.ai/) 
+ - Mockups [Shots](https://shots.so/)
+    - Maybe you need Mozzila
+
+# Web 
+
+ - Web Builder [Stunning](https://stunning.so/)
+ - E-mail Builder [Stripo](https://stripo.email/)
