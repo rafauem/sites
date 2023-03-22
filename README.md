@@ -5,6 +5,7 @@
 # Learning
 
  - [Tutor Ai](https://www.tutorai.me/)
+ - [CyMath](https://www.cymath.com/)
  
 # Artificial Intelligence
 
@@ -34,22 +35,20 @@
  - [Smart CTRL + F](https://chrome.google.com/webstore/detail/locus-%E2%80%94-smart-ctrl-%2B-f/eppedlbobmdflmhleafebmahnbphgipb?hl=pt-br)
  - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj)
  - [AIPRM - ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
+ - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
+ - [+25 MB Gmail](https://chrome.google.com/webstore/detail/send-anywhere-for-gmail/amjmjholfoknokffkiolahocokcaecnc)
  
 # Editor
 
-## Designer
+## Designer | Art
 
  - [MS Disigner](https://designer.microsoft.com/)
  - [Designs](https://designs.ai/)
  - [Penji](https://penji.co/ai-presentation/)
  - [Flair](https://flair.ai/)
-
-## Text
-
-- [Language Tool](https://languagetool.org/) :heavy_dollar_sign:
-- [Chat Openai](https://chat.openai.com/)
-- [Copy - Chat](https://www.copy.ai/)
-- [Jasper - Write](https://www.jasper.ai/)
+ - [Glorify](https://www.glorify.com/)
+ - [Create.Vista](https://create.vista.com/)
+ - [Canva](https://www.canva.com/)
 
 ## Audio
 
@@ -69,11 +68,17 @@
  - [Animoto](https://animoto.com/)
  - [Flex Clip](https://www.flexclip.com/)
  - [Clip Champ](https://clipchamp.com/)
-  [Animaker](https://www.animaker.co/)
+ - [Animaker](https://www.animaker.co/)
 
 # Creator
 
 ## Text
+
+- [Language Tool](https://languagetool.org/) :heavy_dollar_sign:
+- [Chat Openai](https://chat.openai.com/)
+- [Copy - Chat](https://www.copy.ai/)
+- [Jasper - Write](https://www.jasper.ai/)
+- [Consh](https://www.getconch.ai/)
 
 ## Image
 
@@ -82,6 +87,7 @@
  - [MidJourney](https://www.midjourney.com/)
  - [Galileo AI](https://www.usegalileo.ai/)
  - [InstantArt](https://instantart.io/)
+ - [PlaygroundAI](https://playgroundai.com/)
 
 ### Stable Diffusion
 
@@ -114,7 +120,7 @@
 - [Zoho](https://www.zoho.com/)
 - [Xtensio](https://xtensio.com/)
 - [Genially](https://genial.ly/)
-- [Canva](https://www.canva.com/)
+
 
 ### AI Creator
 
@@ -153,6 +159,8 @@
 
  - [Trakto](https://www.trakto.io/) by: XandinhoLove
  - [ContentDrips](https://contentdrips.com/) by: XandinhoLove
+ - [PFP Maker](https://pfpmaker.com/)
+ - [Jitter](https://jitter.video/)
  
 # Hack
 
