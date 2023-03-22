@@ -14,6 +14,15 @@
 - [Murf - Voice Generation](https://murf.ai/)
 - [DoNotPay - Lawyer ](https://donotpay.com/)
 
+## Prpmpts
+
+ - [PromptPal](https://www.promptpal.net/)
+
+# Online in your Browser
+
+- Share files directly between devices: [ShereDro](https://www.sharedrop.io/)
+- Share files directly from your device to anywhere: [ToffShare](https://toffeeshare.com/)
+
 # PDF
 
  - [Chat Any PDF](https://www.chatpdf.com/)
@@ -33,6 +42,7 @@
  - [MS Disigner](https://designer.microsoft.com/)
  - [Designs](https://designs.ai/)
  - [Penji](https://penji.co/ai-presentation/)
+ - [Flair](https://flair.ai/)
 
 ## Text
 
@@ -51,6 +61,7 @@
 ## Video
 
  - [AutoCut](https://www.autocut.fr/en/)
+ - [bgRem](https://bgrem.deelvin.com/)
 
 ### Stunning Videos
 
@@ -66,8 +77,11 @@
 
 ## Image
 
-- [Dall-E - Images](https://openai.com/product/dall-e-2)
-- [BlueWillow](https://www.bluewillow.ai/)
+ - [Dall-E - Images](https://openai.com/product/dall-e-2)
+ - [BlueWillow](https://www.bluewillow.ai/)
+ - [MidJourney](https://www.midjourney.com/)
+ - [Galileo AI](https://www.usegalileo.ai/)
+ - [InstantArt](https://instantart.io/)
 
 ### Stable Diffusion
 
@@ -78,6 +92,7 @@
 
 ## Video
 
+- [WonderDynamics](https://wonderdynamics.com/)
 
 ## Tools
 
@@ -115,7 +130,7 @@
 # Miscellaneous
 
  - [Alternative To](https://alternativeto.net/)
- - [Galileo AI](https://www.usegalileo.ai/)
+
  - [SimilarWeb](https://www.similarweb.com/)
  - [YouTube video dubbing](https://ezdubs.ai/)
  - [Magazine Template](https://www.flipsnack.com/)
