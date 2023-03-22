@@ -9,11 +9,13 @@
  
 # Artificial Intelligence
 
-- Drawing: [Autodraw](https://www.autodraw.com/)
-- [Photo restoration: GFP-GAN](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
-- [FireFlies - Meeting Notes](https://fireflies.ai/)
-- [Murf - Voice Generation](https://murf.ai/)
-- [DoNotPay - Lawyer ](https://donotpay.com/)
+ - [theresanaiforthat](https://theresanaiforthat.com/)
+ - [Futurepedia](https://www.futurepedia.io/)
+ - Drawing: [Autodraw](https://www.autodraw.com/)
+ - [Photo restoration: GFP-GAN](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
+ - [FireFlies - Meeting Notes](https://fireflies.ai/)
+ - [Murf - Voice Generation](https://murf.ai/)
+ - [DoNotPay - Lawyer ](https://donotpay.com/)
 
 ## Prpmpts
 
@@ -40,6 +42,8 @@
  
 # Editor
 
+ - Video, Audio or Image [Media](https://www.media.io/)
+
 ## Designer | Art
 
  - [MS Disigner](https://designer.microsoft.com/)
@@ -49,18 +53,28 @@
  - [Glorify](https://www.glorify.com/)
  - [Create.Vista](https://create.vista.com/)
  - [Canva](https://www.canva.com/)
+ - [Lexica](https://lexica.art/)
+ - Logo [Looka](https://looka.com/)
 
 ## Audio
 
+ - [MetaVoice](https://themetavoice.xyz/)
+
 ## Image
+
  - [Picwish](https://picwish.com/)
  - [Color, Anime, Replace](https://www.myheritage.com/) Need login
  - [Colorize Pictures](https://palette.fm/)
- - 
+ - Enlarge [BigJPG](https://bigjpg.com/)
+ - [ClipDrop](https://clipdrop.co/)
+ 
 ## Video
 
  - [AutoCut](https://www.autocut.fr/en/)
  - [bgRem](https://bgrem.deelvin.com/)
+ - [Veed](https://www.veed.io/)
+ - [Descript](https://www.descript.com/)
+ - [CapCut](https://www.capcut.com/p)
 
 ### Stunning Videos
 
@@ -72,13 +86,21 @@
 
 # Creator
 
+## Audio
+
+ - [ElevenLabs](https://beta.elevenlabs.io/)
+
 ## Text
 
 - [Language Tool](https://languagetool.org/) :heavy_dollar_sign:
-- [Chat Openai](https://chat.openai.com/)
+- [Chat GPT](https://chat.openai.com/)
+- [Beta OpenAI](https://platform.openai.com/playground)
 - [Copy - Chat](https://www.copy.ai/)
 - [Jasper - Write](https://www.jasper.ai/)
 - [Consh](https://www.getconch.ai/)
+- [ChatSonic](https://writesonic.com/chat)
+- [GPTBoss](https://www.gptboss.com/)
+- [Plagium](https://www.plagium.com/)
 
 ## Image
 
@@ -88,6 +110,8 @@
  - [Galileo AI](https://www.usegalileo.ai/)
  - [InstantArt](https://instantart.io/)
  - [PlaygroundAI](https://playgroundai.com/)
+ - [PhotoSonic](https://photosonic.writesonic.com/)
+ - [StockIMG](https://stockimg.ai/)
 
 ### Stable Diffusion
 
@@ -99,6 +123,10 @@
 ## Video
 
 - [WonderDynamics](https://wonderdynamics.com/)
+- [Steve](https://www.steve.ai/)
+- [Movio](https://www.movio.la/)
+- [Fliki](https://fliki.ai/)
+- Avatar [D-ID](https://www.d-id.com/)
 
 ## Tools
 
@@ -111,6 +139,8 @@
 
 # MS Office
 
+ - [Copilot](https://github.com/features/copilot)
+ 
 ## Word
 
 ## Power Point
@@ -136,8 +166,8 @@
 # Miscellaneous
 
  - [Alternative To](https://alternativeto.net/)
-
  - [SimilarWeb](https://www.similarweb.com/)
+ - [Replika](https://replika.com/)
  - [YouTube video dubbing](https://ezdubs.ai/)
  - [Magazine Template](https://www.flipsnack.com/)
  - [Templates](https://pt.venngage.com/)
@@ -150,10 +180,14 @@
  - [Connection To Any Professional](https://rocketreach.co/)
  - [Kadama](https://kadama.com/)
  - [Design](https://venngage.com/)
+ - [Namelix](https://www.shopify.com/br/ferramentas/gerador-nomes-para-empresas)
 
 # Bank of
 
+## Images
+
  - [allthefreestock](https://allthefreestock.com/)
+ - [FreeImages](https://www.freeimages.com/)
  
 # Social Media
 
@@ -161,6 +195,7 @@
  - [ContentDrips](https://contentdrips.com/) by: XandinhoLove
  - [PFP Maker](https://pfpmaker.com/)
  - [Jitter](https://jitter.video/)
+ - [PhotoAI](https://photoai.com/)
  
 # Hack
 
@@ -168,10 +203,15 @@
  - [Temp Mail](https://temp-mail.org/)
  - [BugMeNot](https://bugmenot.com/)
  - [Face Check](https://facecheck.id/)
+ - [URL Void](https://www.urlvoid.com/)
 
 :exclamation:
 :question:
 :x:
 
-
-```
+ - Data and graph [UseChannel](https://www.usechannel.com/)
+ - Dubbing [PaperCup](https://www.papercup.com/)
+ - [Create pro quality product photography with AI](https://www.booth.ai/)
+ - Generate ads[Clickable](https://www.clickable.so/)
+ - Rational decisions [Rationale](https://rationale.jina.ai/)
+ - [The ultimate manuals library](https://www.manualslib.com/)
