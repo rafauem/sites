@@ -6,31 +6,49 @@
 
  - [Tutor Ai](https://www.tutorai.me/)
  - [CyMath](https://www.cymath.com/)
+
+
  
 # Artificial Intelligence
 
+## Chat Boot
+
+ - [Chat GPT](https://chat.openai.com/)
+ - [Beta OpenAI](https://platform.openai.com/playground)
+ - [Chat ABC](https://chatabc.ai/)
+ - [ChatSonic](https://writesonic.com/chat)
+ - [GPTBoss](https://www.gptboss.com/)
+ - [Poe CHat](https://poe.com/)
+ - [NatDev](https://www.nat.dev/)
+ - [Copy - Chat](https://www.copy.ai/)
+ - [Jasper - Write](https://www.jasper.ai/) :heavy_dollar_sign:
+ - [Perplexity](https://www.perplexity.ai/)
+
+## Engine Search
+
  - [theresanaiforthat](https://theresanaiforthat.com/)
  - [Futurepedia](https://www.futurepedia.io/)
- - Drawing: [Autodraw](https://www.autodraw.com/)
- - [Photo restoration: GFP-GAN](https://app.baseten.co/apps/QPp4nPE/operator_views/RqgOnqV)
- - [FireFlies - Meeting Notes](https://fireflies.ai/)
- - [Murf - Voice Generation](https://murf.ai/)
- - [DoNotPay - Lawyer ](https://donotpay.com/)
 
 ## Prpmpts
 
  - [PromptPal](https://www.promptpal.net/)
 
-# Online in your Browser
+## Interior Design
 
-- Share files directly between devices: [ShereDro](https://www.sharedrop.io/)
-- Share files directly from your device to anywhere: [ToffShare](https://toffeeshare.com/)
+ - [ReImagine](https://www.reimaginehome.ai/)
+ - [Interio](https://interiorai.com/)
 
 # PDF
 
- - [Chat Any PDF](https://www.chatpdf.com/)
+## Tools
+
  - [I Love PDF](https://www.ilovepdf.com/)
  - [Tiny Wow](https://tinywow.com/)
+ 
+ ## AI
+  
+  - [SciSpace](https://typeset.io/)
+  - [Chat Any PDF](https://www.chatpdf.com/)
  
  # Chrome Extensions
  
@@ -55,10 +73,12 @@
  - [Canva](https://www.canva.com/)
  - [Lexica](https://lexica.art/)
  - Logo [Looka](https://looka.com/)
+ - Drawing: [Autodraw](https://www.autodraw.com/)
 
 ## Audio
 
  - [MetaVoice](https://themetavoice.xyz/)
+ - [Murf - Voice Generation](https://murf.ai/)
 
 ## Image
 
@@ -93,16 +113,11 @@
 ## Text
 
  - [Language Tool](https://languagetool.org/) :heavy_dollar_sign:
- - [Chat GPT](https://chat.openai.com/)
- - [Beta OpenAI](https://platform.openai.com/playground)
- - [Copy - Chat](https://www.copy.ai/)
- - [Jasper - Write](https://www.jasper.ai/)
  - [Consh](https://www.getconch.ai/)
- - [ChatSonic](https://writesonic.com/chat)
- - [GPTBoss](https://www.gptboss.com/)
- - [Poe CHat](https://poe.com/)
- - [NatDev](https://www.nat.dev/)
  - [Plagium](https://www.plagium.com/)
+ - [QuillBot](https://quillbot.com/)
+ - [Charley](https://charley.ai/)
+
 
 ## Image
 
@@ -210,9 +225,15 @@
  - [Face Check](https://facecheck.id/)
  - [URL Void](https://www.urlvoid.com/)
 
-:exclamation:
-:question:
-:x:
+# Web 
+
+ - Web Builder [Stunning](https://stunning.so/)
+ - E-mail Builder [Stripo](https://stripo.email/)
+ - [FireFlies - Meeting Notes](https://fireflies.ai/)
+ - Share files directly between devices: [ShereDro](https://www.sharedrop.io/)
+ - Share files directly from your device to anywhere: [ToffShare](https://toffeeshare.com/)
+ 
+# Miscellaneous
 
  - Smart Scheduling for Busy Teams [Reclaim](https://reclaim.ai/ )
  - Data and graph [UseChannel](https://www.usechannel.com/)
@@ -225,8 +246,6 @@
  - Tools for music [Lalal](https://www.lalal.ai/) 
  - Mockups [Shots](https://shots.so/)
     - Maybe you need Mozzila
+  - [DoNotPay - Lawyer ](https://donotpay.com/)
 
-# Web 
 
- - Web Builder [Stunning](https://stunning.so/)
- - E-mail Builder [Stripo](https://stripo.email/)
