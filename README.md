@@ -7,9 +7,9 @@
  - [Tutor Ai](https://www.tutorai.me/)
  - [CyMath](https://www.cymath.com/)
 
-
- 
 # Artificial Intelligence
+
+ - Impruve Text [Clarice](https://clarice.ai/?)
 
 ## Chat Boot
 
@@ -23,6 +23,9 @@
  - [Copy - Chat](https://www.copy.ai/)
  - [Jasper - Write](https://www.jasper.ai/) :heavy_dollar_sign:
  - [Perplexity](https://www.perplexity.ai/)
+ - [Bard Google](https://bard.google.com/?hl=en)
+   - No avaliable to some countries.
+ - [Nvidia](https://www.nvidia.com/pt-br/research/ai-playground/)
 
 ## Engine Search
 
@@ -37,30 +40,12 @@
 
  - [ReImagine](https://www.reimaginehome.ai/)
  - [Interio](https://interiorai.com/)
-
-# PDF
-
-## Tools
-
- - [I Love PDF](https://www.ilovepdf.com/)
- - [Tiny Wow](https://tinywow.com/)
  
- ## AI
-  
-  - [SciSpace](https://typeset.io/)
-  - [Chat Any PDF](https://www.chatpdf.com/)
- 
- # Chrome Extensions
- 
- - [Smart CTRL + F](https://chrome.google.com/webstore/detail/locus-%E2%80%94-smart-ctrl-%2B-f/eppedlbobmdflmhleafebmahnbphgipb?hl=pt-br)
- - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj)
- - [AIPRM - ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
- - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
- - [+25 MB Gmail](https://chrome.google.com/webstore/detail/send-anywhere-for-gmail/amjmjholfoknokffkiolahocokcaecnc)
- 
-# Editor
+## Editor
 
  - Video, Audio or Image [Media](https://www.media.io/)
+ - Video, Text, Graphic Design ... [Simplified](https://simplified.com/)
+ - [UIZard](https://uizard.io/)
 
 ## Designer | Art
 
@@ -87,6 +72,8 @@
  - [Colorize Pictures](https://palette.fm/)
  - Enlarge [BigJPG](https://bigjpg.com/)
  - [ClipDrop](https://clipdrop.co/)
+ - [SegmentAnything](https://segment-anything.com/)
+ - [MagicEraser](https://magicstudio.com/)
  
 ## Video
 
@@ -95,6 +82,7 @@
  - [Veed](https://www.veed.io/)
  - [Descript](https://www.descript.com/)
  - [CapCut](https://www.capcut.com/p)
+ - [Kamua](https://kamua.com/)
 
 ### Stunning Videos
 
@@ -104,22 +92,23 @@
  - [Clip Champ](https://clipchamp.com/)
  - [Animaker](https://www.animaker.co/)
 
-# Creator
+### Creator
 
-## Audio
+### Audio
 
  - [ElevenLabs](https://beta.elevenlabs.io/)
 
-## Text
+### ReWriter
 
  - [Language Tool](https://languagetool.org/) :heavy_dollar_sign:
  - [Consh](https://www.getconch.ai/)
  - [Plagium](https://www.plagium.com/)
  - [QuillBot](https://quillbot.com/)
  - [Charley](https://charley.ai/)
+ - [WordSpinner](https://wordspinner.com.br/)
 
 
-## Image
+### Image
 
  - [Dall-E - Images](https://openai.com/product/dall-e-2)
  - [BlueWillow](https://www.bluewillow.ai/)
@@ -130,6 +119,7 @@
  - [PhotoSonic](https://photosonic.writesonic.com/)
  - [StockIMG](https://stockimg.ai/)
  - [CivitAi](https://civitai.com/)
+ - [Adobe](https://www.adobe.com/sensei/generative-ai/firefly.html)
 
 ### Stable Diffusion
 
@@ -138,7 +128,7 @@
  - [Prodia](https://app.prodia.com/)
 
 
-## Video
+### Video
 
 - [WonderDynamics](https://wonderdynamics.com/)
 - [Steve](https://www.steve.ai/)
@@ -146,7 +136,19 @@
 - [Fliki](https://fliki.ai/)
 - Avatar [D-ID](https://www.d-id.com/)
 
+# PDF
+
 ## Tools
+
+ - [I Love PDF](https://www.ilovepdf.com/)
+ - [Tiny Wow](https://tinywow.com/)
+ 
+ ## AI
+  
+  - [SciSpace](https://typeset.io/)
+  - [Chat Any PDF](https://www.chatpdf.com/)
+
+# Tools
 
 - [lachief.io](https://lachief.io/) :free:
 - [tinywow.com](https://tinywow.com/)
@@ -224,6 +226,8 @@
  - [BugMeNot](https://bugmenot.com/)
  - [Face Check](https://facecheck.id/)
  - [URL Void](https://www.urlvoid.com/)
+ - [DeepFakeLive](https://github.com/iperov/DeepFaceLive)
+ - [RemovePaywall](https://www.removepaywall.com/)
 
 # Web 
 
@@ -232,6 +236,14 @@
  - [FireFlies - Meeting Notes](https://fireflies.ai/)
  - Share files directly between devices: [ShereDro](https://www.sharedrop.io/)
  - Share files directly from your device to anywhere: [ToffShare](https://toffeeshare.com/)
+
+## Chrome Extensions
+ 
+ - [Smart CTRL + F](https://chrome.google.com/webstore/detail/locus-%E2%80%94-smart-ctrl-%2B-f/eppedlbobmdflmhleafebmahnbphgipb?hl=pt-br)
+ - [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-and-sc/nlipoenfbbikpbjkfpfillcgkoblgpmj)
+ - [AIPRM - ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
+ - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
+ - [+25 MB Gmail](https://chrome.google.com/webstore/detail/send-anywhere-for-gmail/amjmjholfoknokffkiolahocokcaecnc)
  
 # Miscellaneous
 
