@@ -34,7 +34,8 @@
 
 ## Prpmpts
 
- - [PromptPal](https://www.promptpal.net/)
+ - [500 prompts](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
+ - [PromptPal](https://www.promptpal.net/) bad!
 
 ## Interior Design
 
