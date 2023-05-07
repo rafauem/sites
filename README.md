@@ -9,7 +9,8 @@
 
 # Artificial Intelligence
 
- - Impruve Text [Clarice](https://clarice.ai/?)
+ - Impruve Text [Clarice](https://clarice.ai/)
+ - Tools with AI [Replicate](https://replicate.com/explore)
 
 ## Chat Boot
 
@@ -211,6 +212,11 @@
  - [allthefreestock](https://allthefreestock.com/)
  - [FreeImages](https://www.freeimages.com/)
  
+## Videos
+
+ - [CreatorSet](https://creatorset.com/)
+ - [VLIPSY](https://vlipsy.com/)
+ 
 # Social Media
 
  - [Trakto](https://www.trakto.io/) by: XandinhoLove
@@ -237,6 +243,7 @@
  - [FireFlies - Meeting Notes](https://fireflies.ai/)
  - Share files directly between devices: [ShereDro](https://www.sharedrop.io/)
  - Share files directly from your device to anywhere: [ToffShare](https://toffeeshare.com/)
+ - Domain [Name.com](https://www.name.com/) :shipit:suspect
 
 ## Chrome Extensions
  
@@ -245,6 +252,9 @@
  - [AIPRM - ChatGPT](https://chrome.google.com/webstore/detail/aiprm-for-chatgpt/ojnbohmppadfgpejeebfnmnknjdlckgj)
  - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
  - [+25 MB Gmail](https://chrome.google.com/webstore/detail/send-anywhere-for-gmail/amjmjholfoknokffkiolahocokcaecnc)
+ - [What Font](https://chrome.google.com/webstore/detail/what-font-find-font/acpcapnaopbhbelhmbbmppghilclpkep?hl=pt-br)
+ - Text from image [Project Naptha](https://chrome.google.com/webstore/detail/project-naptha/molncoemjfmpgdkbdlbjmhlcgniigdnf?hl=pt-br)
+ - [Harpa.ai](https://harpa.ai/)
  
 # Miscellaneous
 
