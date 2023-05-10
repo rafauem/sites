@@ -245,6 +245,7 @@
  - Share files directly between devices: [ShereDro](https://www.sharedrop.io/)
  - Share files directly from your device to anywhere: [ToffShare](https://toffeeshare.com/)
  - Domain [Name.com](https://www.name.com/) :shipit:suspect
+ - Downloades [ExpertsToll](https://www.expertstool.com/)
 
 ## Chrome Extensions
  
