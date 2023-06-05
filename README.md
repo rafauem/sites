@@ -28,6 +28,11 @@
    - No avaliable to some countries.
  - [Nvidia](https://www.nvidia.com/pt-br/research/ai-playground/)
 
+### Anti-Chat Boot
+
+ - Rewrite text
+   - [Smodin](https://smodin.io/)
+
 ## Engine Search
 
  - [theresanaiforthat](https://theresanaiforthat.com/)
@@ -37,6 +42,11 @@
 
  - [500 prompts](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
  - [PromptPal](https://www.promptpal.net/) bad!
+
+## Online 
+
+Create your online course with the most advanced online course creation tool.
+ - [CourseAI](https://courseai.com/)
 
 ## Interior Design
 
