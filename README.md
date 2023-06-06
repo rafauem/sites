@@ -13,6 +13,7 @@
 
 # Artificial Intelligence
 
+ - Brazuca!!! [AIZzy](https://aizzy.ai/)
  - Impruve Text [Clarice](https://clarice.ai/)
  - Tools with AI [Replicate](https://replicate.com/explore)
 
@@ -57,12 +58,6 @@ Create your online course with the most advanced online course creation tool.
 
  - [ReImagine](https://www.reimaginehome.ai/)
  - [Interio](https://interiorai.com/)
- 
-## Editor
-
- - Video, Audio or Image [Media](https://www.media.io/)
- - Video, Text, Graphic Design ... [Simplified](https://simplified.com/)
- - [UIZard](https://uizard.io/)
 
 ## Designer | Art
 
@@ -77,12 +72,18 @@ Create your online course with the most advanced online course creation tool.
  - Logo [Looka](https://looka.com/)
  - Drawing: [Autodraw](https://www.autodraw.com/)
 
-## Audio
+## Editor
+
+ - Video, Audio or Image [Media](https://www.media.io/)
+ - Video, Text, Graphic Design ... [Simplified](https://simplified.com/)
+ - [UIZard](https://uizard.io/)
+
+### Audio
 
  - [MetaVoice](https://themetavoice.xyz/)
  - [Murf - Voice Generation](https://murf.ai/)
 
-## Image
+### Image
 
  - [Picwish](https://picwish.com/)
  - [Color, Anime, Replace](https://www.myheritage.com/) Need login
@@ -91,8 +92,9 @@ Create your online course with the most advanced online course creation tool.
  - [ClipDrop](https://clipdrop.co/)
  - [SegmentAnything](https://segment-anything.com/)
  - [MagicEraser](https://magicstudio.com/)
+ - [SnapEdit](https://snapedit.app/pt)
  
-## Video
+### Video
 
  - [AutoCut](https://www.autocut.fr/en/)
  - [bgRem](https://bgrem.deelvin.com/)
@@ -102,7 +104,7 @@ Create your online course with the most advanced online course creation tool.
  - [Kamua](https://kamua.com/)
  - [Vidyo](https://vidyo.ai/)
 
-### Stunning Videos
+#### Stunning Videos
 
  - [Motion Array](https://motionarray.com/)
  - [Animoto](https://animoto.com/)
@@ -181,9 +183,10 @@ Create your online course with the most advanced online course creation tool.
 - [Link checker: virustotal](https://www.virustotal.com/gui/home/url)
 - Edit, convert, create with [123Apps](https://123apps.com/)
 
-# MS Office
+# Office
 
  - [Copilot](https://github.com/features/copilot)
+ - [Numerous](https://numerous.ai/)
  
 ## Word
 
