@@ -100,6 +100,7 @@ Create your online course with the most advanced online course creation tool.
  - [Descript](https://www.descript.com/)
  - [CapCut](https://www.capcut.com/p)
  - [Kamua](https://kamua.com/)
+ - [Vidyo](https://vidyo.ai/)
 
 ### Stunning Videos
 
@@ -109,7 +110,12 @@ Create your online course with the most advanced online course creation tool.
  - [Clip Champ](https://clipchamp.com/)
  - [Animaker](https://www.animaker.co/)
 
-### Creator
+## Creator
+
+### Text
+
+ - Text editor with AI
+   - [Lex.Page](https://lex.page/)
 
 ### Audio
 
