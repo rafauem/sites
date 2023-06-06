@@ -6,6 +6,10 @@
 
  - [Tutor Ai](https://www.tutorai.me/)
  - [CyMath](https://www.cymath.com/)
+ - [RoadMap.sh](https://roadmap.sh/)
+ - [CodeWars](https://www.codewars.com/)
+ - [HackerRank](https://www.hackerrank.com/)
+ - [LeetCode](https://leetcode.com/)
 
 # Artificial Intelligence
 
@@ -27,6 +31,7 @@
  - [Bard Google](https://bard.google.com/?hl=en)
    - No avaliable to some countries.
  - [Nvidia](https://www.nvidia.com/pt-br/research/ai-playground/)
+ - [AgentGPT](https://agentgpt.reworkd.ai/)
 
 ### Anti-Chat Boot
 
@@ -43,7 +48,7 @@
  - [500 prompts](https://ignacio-velasquez.notion.site/ignacio-velasquez/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da)
  - [PromptPal](https://www.promptpal.net/) bad!
 
-## Online 
+## Course 
 
 Create your online course with the most advanced online course creation tool.
  - [CourseAI](https://courseai.com/)
@@ -246,16 +251,21 @@ Create your online course with the most advanced online course creation tool.
  - [URL Void](https://www.urlvoid.com/)
  - [DeepFakeLive](https://github.com/iperov/DeepFaceLive)
  - [RemovePaywall](https://www.removepaywall.com/)
+ - [WebMii](https://webmii.com/)
+ - [Horusec](https://horusec.io/)
 
 # Web 
 
- - Web Builder [Stunning](https://stunning.so/)
+ - Web Builder
+   - [Stunning](https://stunning.so/)
+   - [10Web](https://10web.io/)
+ 
  - E-mail Builder [Stripo](https://stripo.email/)
  - [FireFlies - Meeting Notes](https://fireflies.ai/)
  - Share files directly between devices: [ShereDro](https://www.sharedrop.io/)
  - Share files directly from your device to anywhere: [ToffShare](https://toffeeshare.com/)
  - Domain [Name.com](https://www.name.com/) :shipit:suspect
- - Downloades [ExpertsToll](https://www.expertstool.com/)
+ - Downloaders [ExpertsToll](https://www.expertstool.com/)
 
 ## Chrome Extensions
  
