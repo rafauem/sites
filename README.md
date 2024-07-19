@@ -38,6 +38,13 @@
 
  - Rewrite text
    - [Smodin](https://smodin.io/)
+   - [UndetectableAI](https://undetectable.ai/)
+  
+### Scientific Paper
+
+ - Ask a question, get an answer backed by real research [Scite](https://scite.ai/)
+ - AI Search Engine for Research [Consensus](https://consensus.app/)
+ - Reimagine Research We’re rethinking everything: literature search, alerts, and more [ResearchRabbit](https://www.researchrabbit.ai/)
 
 ## Engine Search
 
